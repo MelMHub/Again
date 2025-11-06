@@ -12,6 +12,7 @@ import SettingsScreen from './Screens/SettingsScreen';
 import DetailsScreen from './Screens/DetailsScreen';
 import TasksScreen from './Screens/TasksScreen';
 
+
 //ANCHOR - Primary Nav Approach
 const Tab = createBottomTabNavigator();
 //ANCHOR - Sub Nav Approach
